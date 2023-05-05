@@ -10,7 +10,7 @@ This program was written in first semester (2022 fall, first course)
 
 The reason I wrote this program was written because original `shutdown` command line utility does not support hybernation with time delay. I decided to fix it.
 
-Why did I remember about this program now? I needed to learn how [`Inno setup script`](https://jrsoftware.org/isinfo.php) works (Also I neded some practice on writing README files).
+Why did I remember about this program now? I needed to learn how [Inno Setup script](https://jrsoftware.org/isinfo.php) works (Also I neded some practice on writing README files).
 
 ---
 
