@@ -3,7 +3,7 @@
 #define MyAppName "SDM"
 #define MyAppVersion "1"
 #define MyAppPublisher "https://github.com/Zhassulan1/"
-#define MyAppExeName "sdm.exe"
+#define MyAppExeName "SDM.exe"
 
 
 [Setup]
