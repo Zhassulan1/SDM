@@ -18,8 +18,8 @@ Why did I remember about this program now? I needed to learn how [`Inno setup sc
 
 1. You can download [`Setup Wizzard`](https://github.com/Zhassulan1/SDM/blob/main/installer/SDM%20setup.exe) (If you trust stranger from internet)
 
-2. You can build installer using [`Inno Setup`](https://jrsoftware.org/isinfo.php), script source codes are in "installer" folder
+2. You can build installer using [Inno Setup](https://jrsoftware.org/isinfo.php), script source codes are in "installer" folder
 
-3. You can copy "ShutdownM.cpp" and qsd_modes.hpp", and compile `g++ ShutdownM.cpp -o SDM.exe`
+3. You can copy "ShutdownM.cpp" and "qsd_modes.hpp", and compile `g++ ShutdownM.cpp -o SDM.exe`
 
    (Make sure that it is added to `Path` in order to launch it by command line or by Run)
