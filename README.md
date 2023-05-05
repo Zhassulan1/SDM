@@ -16,7 +16,7 @@ Why did I remember about this program now? I needed to learn how [`Inno setup sc
 
 # Installation
 
-1. You can download [`Setup Wizzard`](https://github.com/Zhassulan1/SDM/blob/main/installer/SDM%20setup.exe) (If you trust stranger from internet)
+1. You can download [Setup Wizzard](https://github.com/Zhassulan1/SDM/blob/main/installer/SDM%20setup.exe) (If you trust stranger from internet)
 
 2. You can build installer using [Inno Setup](https://jrsoftware.org/isinfo.php), script source codes are in "installer" folder
 
