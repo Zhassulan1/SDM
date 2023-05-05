@@ -6,7 +6,7 @@ This program was written in first semester (2022 fall, first course)
 
 ---
 
-# Motivation
+## Motivation
 
 The reason I wrote this program was written because original `shutdown` command line utility does not support hybernation with time delay. I decided to fix it.
 
@@ -14,7 +14,7 @@ Why did I remember about this program now? I needed to learn how [Inno Setup scr
 
 ---
 
-# Installation
+## Installation
 
 1. You can download [Setup Wizzard](https://github.com/Zhassulan1/SDM/blob/main/installer/SDM%20setup.exe) (If you trust stranger from internet)
 
